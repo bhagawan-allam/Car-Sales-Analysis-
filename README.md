@@ -91,10 +91,14 @@ Provides transaction-level insights:
 
 ## 🖼️ Report Snapshot (Power BI Desktop)
 
-![Overview Dashboard](<img width="1135" height="643" alt="image" src="https://github.com/user-attachments/assets/dbc0ac63-8dcd-423f-855c-88c4dde4c9ce" />
-)
+## [Overview Dashboard]
+<img width="1135" height="643" alt="image" src="https://github.com/user-attachments/assets/cea1c4ae-2be5-4918-a1a5-c31d9db7fef5" />
 
-![Details Dashboard](Screenshots/details.png)
+
+## [Details Dashboard]
+<img width="1141" height="649" alt="image" src="https://github.com/user-attachments/assets/f1299c5c-fef6-47ae-a4ff-3166e37e6fed" />
+
+
 
 ---
 
